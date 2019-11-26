@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Staatliches&display=swap');
+
+body{
+  background-color: #1D1E22;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.word{
+  color: #fff;
+  font-size: 6.5rem;
+ font-family: 'Staatliches', cursive;
+  font-weight: bold;
+}
+.word2{
+  color:#fff;
+  font-size: 3rem;
+  font-family: 'Staatliches', cursive;
+  position:absolute;
+  top:350px;
+
+}
